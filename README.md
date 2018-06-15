@@ -1,0 +1,2 @@
+# DemoSPIHost
+SPI Host for TI TMS570LS3137HDK
